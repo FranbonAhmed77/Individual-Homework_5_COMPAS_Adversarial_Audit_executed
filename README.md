@@ -8,7 +8,7 @@ This folder contains my Homework 5 submission for DNSC 6330: Responsible Machine
 
 - `Individual_Homework_5_COMPAS_Adversarial_Audit_executed.ipynb`
 - `Homework_5_Written_Report.pdf`
-- Individual_homework_01_05_(Merged).ipynb
+- `Individual_homework_01_05_(Merged).ipynb`
 
 ## Overview
 
